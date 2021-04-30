@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Finance"
         desc: "•부동산 금융전문가의 전략적 투자방안 수립. <br> •시장전망에 따른 다양하고 적극적인 금융운용"
-        icon:  fas fa-building #find more at https://fontawesome.com/icons
+        icon:  fas fa-city #find more at https://fontawesome.com/icons
       - title: "Consulting"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-pencil-ruler
