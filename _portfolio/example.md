@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: 동궁리치웰
   subtitle: Donggung Rich Well
-  thumbnail: ../assets/img/portfolio/dong-gung.png
+  thumbnail: https://skyblue098.github.io/INTO-ASSET/assets/img/portfolio/dong-gung.png
   
 #what displays when the item is clicked:
 title: Donggung Rich Well
