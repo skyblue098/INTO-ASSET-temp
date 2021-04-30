@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 동궁리치웰
   subtitle: Donggung Rich Well
-  thumbnail: ..\assets\img\portfolio\dong-gung.png
+  thumbnail: ../assets/img/portfolio/dong-gung.png
   
 #what displays when the item is clicked:
 title: Donggung Rich Well
 subtitle: 동궁리치웰
-image: ..\assets\img\portfolio\dong-gung.png #main image, can be a link or a file in assets/img/portfolio
+image: https://skyblue098.github.io/INTO-ASSET/assets/img/portfolio/dong-gung.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
